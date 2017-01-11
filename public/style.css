@@ -1,0 +1,28 @@
+.miniBox {
+  width: 30%;
+  height: 30%;
+  display:inline-block;
+  border:1px solid black;
+}
+
+#allBox {
+  width: 600px;
+  height: 300px;
+  margin:0 auto;
+  background: lightgreen;
+  border:1px solid black;
+}
+
+#box1 {
+  background: blue;
+
+}
+
+#box2 {
+  background: red;
+
+}
+
+#box3 {
+  background: yellow;
+}
